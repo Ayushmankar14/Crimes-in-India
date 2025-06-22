@@ -1,0 +1,14 @@
+web: streamlit run streamlit_app.py --server.port=$PORT
+<<<<<<< HEAD
+[theme]
+base="light"
+primaryColor="#1e40af"
+backgroundColor="#f5f7fa"
+secondaryBackgroundColor="#e0e8f9"
+textColor="#262730"
+
+[server]
+enableCORS = false
+headless = true
+=======
+>>>>>>> b62ab8d (Initial commit for Streamlit deployment)
